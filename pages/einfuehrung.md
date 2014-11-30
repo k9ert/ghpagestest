@@ -2,6 +2,7 @@
 layout: page
 title: "Einfuehrung"
 description: ""
+group: navigation
 ---
 {% include JB/setup %}
 
