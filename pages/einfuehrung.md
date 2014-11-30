@@ -10,23 +10,6 @@ Unten sehen Sie (Bitte etwas Geduld) nun dieses einfache Programm. Sie k&ouml;nn
 
 
 
-<div>
-  <object classid="clsid:8AD9C840-044E-11D1-B3E9-00805F499D93" WIDTH=400 HEIGHT=200  codebase="http://java.sun.com/products/plugin/1.3/jinstall-13-win32.cab#Version=1,3,0,0">
-    <PARAM NAME = CODE VALUE = "struktor.Struktor.class" >
-    <PARAM NAME = ARCHIVE VALUE = "struktor.jar" >
-    <PARAM NAME="type" VALUE="application/x-java-applet;version=1.3">
-    <PARAM NAME="scriptable" VALUE="false">
-    <PARAM NAME="Preset1" VALUE="asImage">
-    <PARAM NAME="enabExecute" VALUE="true">
-    <PARAM NAME="load" VALUE="hallowelt.str">
-    <COMMENT>
-      <EMBED type="application/x-java-applet;version=1.3"  CODE="struktor.Struktor.class" archive="struktor.jar" WIDTH=400 HEIGHT=200  scriptable=false Preset1=asImage enabExecute=true load=hallowelt.str pluginspage="http://java.sun.com/products/plugin/1.3/plugin-install.html">
-      </EMBED>
-    </COMMENT>
-  </object>
-</div>
-
-
 
 <object classid="clsid:8AD9C840-044E-11D1-B3E9-00805F499D93" codebase="http://java.sun.com/products/plugin/1.3/jinstall-13-win32.cab#Version=1,3,0,0" height="200" width="400">
 <param name="CODE" value="struktor.Struktor.class">
