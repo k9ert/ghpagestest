@@ -52,6 +52,7 @@ Unten sehen Sie (Bitte etwas Geduld) nun dieses einfache Programm. Sie k&ouml;nn
 
 
 
+
 In diesem einfachen Beispiel werden keine Variablen verwendet. Dafür gibt dieses Kommando etwas aus (Output). Alle Commands können grundsätzlich eingeteilt werden in:
 
 * Input (Eingabe)
