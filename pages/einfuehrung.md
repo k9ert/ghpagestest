@@ -17,7 +17,7 @@ Unten sehen Sie (Bitte etwas Geduld) nun dieses einfache Programm. Sie k&ouml;nn
   <param name="ARCHIVE" value="../struktor.jar"/>
   <param name="type" value="application/x-java-applet;version=1.3"/>
   <param name="scriptable" value="false"/>
-  <param name="Preset1" value="asImage"/>
+  <param name="preset1" value="asImage"/>
   <param name="enabExecute" value="true"/>
   <param name="load" value="../struktogramme/hallowelt.str"/>
   <comment>
