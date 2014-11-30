@@ -23,4 +23,10 @@ Unten sehen Sie (Bitte etwas Geduld) nun dieses einfache Programm. Sie k&ouml;nn
 </noembed></comment></object>
 
 
-here is normal text again
+In diesem einfachen Beispiel werden keine Variablen verwendet. Dafür gibt dieses Kommando etwas aus (Output). Alle Commands können grundsätzlich eingeteilt werden in:
+
+* Input (Eingabe)
+* Calculation (Verarbeitung)
+* Output (Ausgabe)
+
+Aus den Anfangsbuchstaben leitet sich der Name für ein wichtiges Prinzip in der Programmierung ab. Das EVA-Prinzip. Es besagt das man immer zuerst alle Daten sammeln sollte (Input). Danach erst die Berechnung (Calculation) durchführt und dann das Ergebnis ausgibt (Output).
