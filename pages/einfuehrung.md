@@ -30,6 +30,27 @@ Unten sehen Sie (Bitte etwas Geduld) nun dieses einfache Programm. Sie k&ouml;nn
 </object>
 
 
+--------------------
+
+<!--"CONVERTED_APPLET"-->
+<!-- CONVERTER VERSION 1.3 -->
+<OBJECT classid="clsid:8AD9C840-044E-11D1-B3E9-00805F499D93"
+WIDTH = 500 HEIGHT = 300 codebase="http://java.sun.com/products/plugin/1.3/jinstall-13-win32.cab#Version=1,3,0,0">
+<PARAM NAME = CODE VALUE = "struktor.Struktor.class" >
+<PARAM NAME = ARCHIVE VALUE = "../struktor.jar" >
+<PARAM NAME="type" VALUE="application/x-java-applet;version=1.3">
+<PARAM NAME="scriptable" VALUE="false">
+<PARAM NAME="Preset1" VALUE="asImage">
+<PARAM NAME="enabExecute" VALUE="true">
+<PARAM NAME="SeWidth" VALUE=300>
+<PARAM NAME="enabSwitchView" VALUE="true">
+<PARAM NAME="Load" VALUE="../struktogramme/hallowelt.str">
+<COMMENT><EMBED type="application/x-java-applet;version=1.3"  CODE = "struktor.Struktor.class" archive="../struktor.jar" WIDTH = 500 HEIGHT = 300  scriptable=false Preset1=asImage enabExecute=true SeWidth=300 enabSwitchView= true enabSePopUp=true load=eva.str
+pluginspage="http://java.sun.com/products/plugin/1.3/plugin-install.html"><NOEMBED></COMMENT>
+</NOEMBED></EMBED></OBJECT>
+<!--"END_CONVERTED_APPLET"-->
+
+
 In diesem einfachen Beispiel werden keine Variablen verwendet. Dafür gibt dieses Kommando etwas aus (Output). Alle Commands können grundsätzlich eingeteilt werden in:
 
 * Input (Eingabe)
