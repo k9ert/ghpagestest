@@ -18,7 +18,7 @@ Unten sehen Sie (Bitte etwas Geduld) nun dieses einfache Programm. Sie k&ouml;nn
 <param name="scriptable" value="false">
 <param name="Preset1" value="asImage">
 <param name="enabExecute" value="true">
-<param name="load" value="hallowelt.str">
+<param name="load" value="../struktogramme/hallowelt.str">
 <comment><embed type="application/x-java-applet;version=1.3" code="struktor.Struktor.class" archive="../struktor.jar" scriptable="false" preset1="asImage" enabexecute="true" load="hallowelt.str" pluginspage="http://java.sun.com/products/plugin/1.3/plugin-install.html" height="200" width="400"><noembed></COMMENT>
 </noembed></comment></object>
 
